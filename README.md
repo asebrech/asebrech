@@ -6,8 +6,6 @@
 
 **Student at *42 Nice***
 
-[![asebrech's 42 stats](https://badge42.herokuapp.com/api/stats/asebrech)](https://github.com/JaeSeoKim/badge42)
-
 **I'm a *STAR WARS* and *HALO* fan !**
 
 **THIS IS THE WAY**
