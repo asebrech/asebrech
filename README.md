@@ -10,12 +10,6 @@
 
 **I'm a *STAR WARS* and *HALO* fan !**
 
-**I also like the *apple* brand**
-
 **THIS IS THE WAY**
 
 ---
-
-![asebrech's github stats](https://github-readme-stats.vercel.app/api?username=asebrech&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
-
-![asebrech's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asebrech&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
