@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">42 – Answer to life, universe, everything</h1>
 
 ###
 
