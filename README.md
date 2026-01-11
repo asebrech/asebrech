@@ -4,7 +4,11 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=2000&width=435&lines=42+%E2%80%93+Answer+to+life%2C+universe%2C+everything)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=2000&width=435&center=true&lines=42+%E2%80%93+Answer+to+life%2C+universe%2C+everything" alt="Typing SVG" />
+  </a>
+</p>
 
 ###
 
